@@ -1,4 +1,3 @@
-# Файл: tor_app.py (Версия 7.1 - Тихий режим)
 # Официальный репозиторий: https://github.com/Verity-Freedom/Tor-Portable
 
 import os
@@ -583,4 +582,5 @@ class App(ctk.CTk):
 
 if __name__ == "__main__":
     app = App()
+
     app.mainloop()
